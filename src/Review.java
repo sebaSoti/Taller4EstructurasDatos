@@ -46,5 +46,4 @@ public class Review {
         return score;
     }
 
-    // Getters y setters
 }
